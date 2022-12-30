@@ -1,0 +1,3 @@
+[submodule "inventory-management"]
+	path = inventory-management
+	url = git@github.com:abuabdirohman4/inventory-management.git
